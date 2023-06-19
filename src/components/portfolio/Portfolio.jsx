@@ -63,7 +63,7 @@ const Portfolio = () => {
           </div>
           <h3>Personal Portfolio</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com" className="btn" target="_blank">
+            <a href="https://github.com/NutNick31/RajeshPortfolio" className="btn" target="_blank">
               {" "}
               Github
             </a>
